@@ -1,0 +1,77 @@
+{
+    "categories": [
+        {
+            "name": "Agriculture Land",
+            "subcategory": [
+                "Fruits Orchard",
+                "Vegetables Field",
+                "Crops Field",
+                "Grass Field"
+            ]
+        },
+        {
+            "name": "Fruits",
+            "subcategory": [
+                "Mango",
+                "Banana",
+                "Apple",
+                "Grapes",
+                "Dates",
+                "Jaman",
+                "Phalsa",
+                "Strawberry",
+                "Melons",
+                "Chikoo"
+            ]
+        },
+        {
+            "name": "Dry Fruits",
+            "subcategory": [
+                "Badam",
+                "Kishmish",
+                "Akhrot",
+                "Pista",
+                "Khubani",
+                "Anjeer",
+                "Chuhaara",
+                "Aloo Bukhara",
+                "Kaju",
+                "Coconut"
+            ]
+        },
+        {
+            "name": "Vegetables",
+            "subcategory": [
+                "Tomato",
+                "Carrot",
+                "Garlic",
+                "Bitter Gourd (Karela)",
+                "Gourd (Loki)",
+                "Cauliflower",
+                "Cucumber",
+                "Potato",
+                "Onion"
+            ]
+        },
+        {
+            "name": "Crops",
+            "subcategory": [
+                "Wheat",
+                "Rice",
+                "Sugar Cane",
+                "Maize",
+                "Cotton"
+            ]
+        },
+        {
+            "name": "Tools",
+            "subcategory": [
+                "Tractor",
+                "Cultivator",
+                "Sprayer",
+                "Plow",
+                "Thresher"
+            ]
+        }
+    ]
+}
